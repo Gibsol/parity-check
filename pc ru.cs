@@ -16,6 +16,7 @@ namespace Parity_Check
             {
                 Console.WriteLine(a + " это нечетное число");
             }
+            Console.ReadLine();
         }
     }
 }
