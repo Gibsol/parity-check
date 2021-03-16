@@ -21,6 +21,7 @@ namespace pc_eng
             {
                 Console.WriteLine(a + " this is an odd number");
             }
+            Console.ReadLine();
         }
     }
 }
